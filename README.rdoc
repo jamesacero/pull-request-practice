@@ -1,5 +1,9 @@
 == README
 
+This is an exercise exploring GitHub pull requests.
+Changes have been made to this readme so that the changes can be committed to git.
+
+------------
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
